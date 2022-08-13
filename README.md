@@ -1,3 +1,4 @@
-# genetic_algorithm
 
-Basic genetic algorithm
+Very basic genetic algorithm implementation
+
+in progress
