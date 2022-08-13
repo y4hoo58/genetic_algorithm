@@ -1,4 +1,4 @@
 
 Very basic genetic algorithm implementation
 
-in progress
+~in progress
